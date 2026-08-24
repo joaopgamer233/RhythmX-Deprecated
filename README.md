@@ -1,7 +1,6 @@
 # RhythmX
 
-# This version of RhythmX is no longer under development due to python critical issues and it has been deprecated.
-# Note: you can still play the old versions in https://github.com/joaopgamer233/RhythmX-Deprecated/releases, but it's no longer under development.
+***This repository of RhythmX has been deprecated temporally.***
+*Note: you can still play the old versions in https://github.com/joaopgamer233/RhythmX-Deprecated/releases, but it has been deprecated temporally.*
 
-
-# Check out new version here: https://github.com/joaopgamer233/RhythmX
+# Development back on track in Oct, 5 2026.
